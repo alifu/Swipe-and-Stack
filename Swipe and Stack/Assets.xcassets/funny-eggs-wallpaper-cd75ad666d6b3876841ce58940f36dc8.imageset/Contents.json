@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "funny-eggs-wallpaper-cd75ad666d6b3876841ce58940f36dc8.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
